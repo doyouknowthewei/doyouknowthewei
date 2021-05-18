@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @doyouknowthewei
+- 👀 I’m interested in ...
+java and wanna dig deeper into it cores and be good at it 
+- 🌱 I’m currently learning ...
+the basics of java 
+- 💞️ I’m looking to collaborate on ...
+junior developers like and sooner to collab w senior devs
+- 📫 How to reach me ...
+
+<!---
+doyouknowthewei/doyouknowthewei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
